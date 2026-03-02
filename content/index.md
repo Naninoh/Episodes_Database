@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the database Choom!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is your one-stop-shop for all things behind the scenes.
+
