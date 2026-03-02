@@ -1,0 +1,1 @@
+> Your ability to impress and influence people through your character and charisma; how well you get along with others; how you interact in social situations.

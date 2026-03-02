@@ -1,0 +1,1 @@
+> How generally bright you are. As a rule, this is more than sheer intelligence, but also includes cleverness, awareness, perception, and your ability to learn.

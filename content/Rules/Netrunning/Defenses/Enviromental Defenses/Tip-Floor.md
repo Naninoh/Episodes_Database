@@ -1,0 +1,9 @@
+
+| Details                                                                                                                                                                                                                                                                                                                                                                                                                  |           Default Trigger           |                             Data                              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------: | :-----------------------------------------------------------: |
+| Targets can attempt to save themselves from falling with a **DV15 [[Athletics]] Check.** No Check is required if target has a Grapple Hand or [[Grapple Gun]] easily accessible. <br><br>The bottom of the pit may have a grid of Nanowire or spikes delivering **6d6 damage** to the target's body.<br><br>**DV 13 Electronics/Security Tech, 1 min** *to [[Netrunning Regeln#Enviromental Defenses#Counter\|counter]]* | Target steps onto the<br>Tip-Floor. | Perception DV17 to spot<br><br>Perimeter of the Defended Area |
+
+> [!example] Description
+> 
+> **Type:** Tip-Floor | [[Netrunning Regeln#Enviromental Defenses|Enviromental Defense]]
+> **Description:** A section of this floor is counter-weighted to drop the target into a pit trap below the floor.

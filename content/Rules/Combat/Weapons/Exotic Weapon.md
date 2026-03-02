@@ -1,0 +1,1 @@
+Exotic weapons are weapons that are overly specialized or too unique to be easily described. They are typically variants of existing weapon types. **All Exotic Weapons are Average Weapon Quality** and are **incompatible with all Weapon Attachments and Non-Basic Ammunition** unless otherwise noted.

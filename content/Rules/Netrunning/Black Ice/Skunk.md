@@ -1,0 +1,9 @@
+
+| Name  | [[(Black Ice LEGENDE)#Class\|Class]] | [[(Black Ice LEGENDE)#Perception (PER)\|PER]] | [[(Black Ice LEGENDE)#Speed (SPD )\|SPD]] | [[(Black Ice LEGENDE)#Attack (ATK)\|ATK]] | [[(Black Ice LEGENDE)#Defense (DEF)\|DEF]] | [[(Black Ice LEGENDE)#REZ\|REZ]] | Effect                                                                                                                                                                                                                 |           Cost           |
+| :---: | :----------------------------------: | :-------------------------------------------: | :---------------------------------------: | :---------------------------------------: | :----------------------------------------: | :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| Skunk |     Anti-Personnel<br>Black ICE      |                       2                       |                     4                     |                     4                     |                     2                      |                10                | Until this Program is Derezzed, an enemy Netrunner hit by this Effect makes all Slide Checks at a -2. Each Skunk Black ICE can only affect a single Netrunner at a time, but the effects of multiple Skunks can stack. | 500eb<br>(<br>Expensive) |
+Icon: A mass of thrashing, orange tentacles protruding from the walls. Their suckers are covered in sticky red goop.
+
+#anti-personnel
+
+#black_ice #combat #netrunning #medium 

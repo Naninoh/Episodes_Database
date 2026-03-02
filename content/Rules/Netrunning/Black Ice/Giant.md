@@ -1,0 +1,9 @@
+
+| Name  | [[(Black Ice LEGENDE)#Class\|Class]] | [[(Black Ice LEGENDE)#Perception (PER)\|PER]] | [[(Black Ice LEGENDE)#Speed (SPD )\|SPD]] | [[(Black Ice LEGENDE)#Attack (ATK)\|ATK]] | [[(Black Ice LEGENDE)#Defense (DEF)\|DEF]] | [[(Black Ice LEGENDE)#REZ\|REZ]] | Effect                                                                                                                                                                                                                                                                                                                   | Cost |
+| :---: | :----------------------------------: | :-------------------------------------------: | :---------------------------------------: | :---------------------------------------: | :----------------------------------------: | :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--: |
+| Giant |     Anti-Personnel<br>Black ICE      |                       2                       |                     2                     |                     8                     |                     4                      |                25                | Does **3d6 damage direct to an enemy Netrunner's brain**. <br><br>*The Netrunner is forcibly and unsafely Jacked Out of their current Netrun.*<br><br>They suffer the effect of all [[Netrunning Regeln#Rezzed\|Rezzed]] enemy Black ICE they've encountered in the Architecture as they leave, not including the Giant. | 1000 |
+Icon: A massive pair of feet and ankles towering above the enemy Netrunner
+
+#anti-personnel
+
+#black_ice #combat #netrunning #advanced  

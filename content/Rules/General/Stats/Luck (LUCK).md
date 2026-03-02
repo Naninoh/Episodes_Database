@@ -1,0 +1,1 @@
+> How the gods of chance see you. With a high enough Luck, you can tip the scales in your favor. In a game mechanics sense, you can apply points from this STAT to offset die rolls in your favor. However, **this pool of points only refills at the beginning of the next session.**

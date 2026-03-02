@@ -1,0 +1,10 @@
+
+|   Name    | [[(Black Ice LEGENDE)#Class\|Class]] | [[(Black Ice LEGENDE)#Perception (PER)\|PER]] | [[(Black Ice LEGENDE)#Speed (SPD )\|SPD]] | [[(Black Ice LEGENDE)#Attack (ATK)\|ATK]] | [[(Black Ice LEGENDE)#Defense (DEF)\|DEF]] | [[(Black Ice LEGENDE)#REZ\|REZ]] | Effect                                                                                                                                                                                                                                                                                               |       Cost        |
+| :-------: | :----------------------------------: | :-------------------------------------------: | :---------------------------------------: | :---------------------------------------: | :----------------------------------------: | :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
+| Hellhound |       Anti-Personnel Black ICE       |                       6                       |                     6                     |                     6                     |                     2                      |                20                | Does 2d6 damage direct to the Netrunner's brain.<br><br>Unless insulated, their Cyberdeck catches fire along with their clothing. Until they spend a Meat Action to put themselves out, they take 2 damage to their HP whenever they end their Turn. Multiple instances of this effect cannot stack. | 500eb (Expensive) |
+
+Icon: A huge, black metal wolf. Its eyes glow white and fire runs in ripples all over its body. It speaks in a grating, metallic voice,repeating the enemy Netrunner's name
+
+#anti-personnel
+
+#black_ice #combat #netrunning #advanced  

@@ -1,0 +1,9 @@
+
+| Details                                                                                                                                                                                                                                                                                                                                                                          |         Default Trigger          |                                   Data                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------: | :-----------------------------------------------------------------------: |
+| When triggered, delivers a shocking **6d6 damage** to the target's body, **reduced by [[armor]] which it doesn't ablate**. <br><br>Target is shocked again at the end of their next Turn and each of their additional Turns until they get off the flooring.<br><br>**DV 13 Electronics/Security Tech, 1 min** *to [[Netrunning Regeln#Enviromental Defenses#Counter\|counter]]* | Target steps onto the<br>carpet. | 20HP<br><br>Perception DV17 to spot<br><br>Perimeter of the Defended Area |
+
+> [!example] Description
+> 
+> **Type:** Electrical Flooring | [[Netrunning Regeln#Enviromental Defenses|Enviromental Defense]]
+> **Description:** This is a grid wired into a standard floor.

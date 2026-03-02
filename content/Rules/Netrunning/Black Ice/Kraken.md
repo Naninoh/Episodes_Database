@@ -1,0 +1,9 @@
+
+|  Name  | [[(Black Ice LEGENDE)#Class\|Class]] | [[(Black Ice LEGENDE)#Perception (PER)\|PER]] | [[(Black Ice LEGENDE)#Speed (SPD )\|SPD]] | [[(Black Ice LEGENDE)#Attack (ATK)\|ATK]] | [[(Black Ice LEGENDE)#Defense (DEF)\|DEF]] | [[(Black Ice LEGENDE)#REZ\|REZ]] | Effect                                                                                                                                                                                                                                |             Cost             |
+| :----: | :----------------------------------: | :-------------------------------------------: | :---------------------------------------: | :---------------------------------------: | :----------------------------------------: | :------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------: |
+| Kraken |     Anti-Personnel<br>Black ICE      |                       6                       |                     2                     |                     8                     |                     4                      |                30                | Does 3d6 damage direct to an enemy Netrunner's brain. Until the end of the Netrunner's next Turn, the Netrunner cannot progress deeper into the Architecture or Jack Out safely (The Netrunner can still perform an unsafe Jack Out). | 1,000eb<br>(V.<br>Expensive) |
+Icon: A mass of thrashing, orange tentacles protruding from the walls. Their suckers are covered in sticky red goop.
+
+#anti-personnel
+
+#black_ice #combat #netrunning #hard 

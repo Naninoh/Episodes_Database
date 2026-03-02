@@ -1,0 +1,9 @@
+
+| Details                                                                                                                                                                                                                                     |                                                                             Default Trigger                                                                             |                                     Data                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| These cameras can see in Low Light, Infrared, and UV, and **report images for a Demon or security personnel to act on.**<br><br>**DV 9 Electronics/Security Tech, 1 min** *to [[Netrunning Regeln#Enviromental Defenses#Counter\|counter]]* | Target enters room without wearing proper pass or badge.<br><br>Turret continues to fire until target <br>is dead, or no longer in range, or proper badge is presented. | 5HP<br><br>Perception DV17 to spot<br><br>Can see one entire room or corridor |
+
+> [!example] Description
+> 
+> **Type:** Observation Camera | [[Netrunning Regeln#Enviromental Defenses|Enviromental Defense]]
+> **Description:** A security camera

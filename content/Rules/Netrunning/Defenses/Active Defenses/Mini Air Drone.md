@@ -1,0 +1,7 @@
+ 
+| Details                                                                                                                                                                                                                                                                                                                                                  |                     Default Trigger                      |                               Data                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------: | :--------------------------------------------------------------: |
+| Mini Air Drones are **equipped with 1** of the following: <br>• [[Gear/Weapons/Exotic Weapons/Handguns/Dartgun]] with 8 [[Poison\|Poison]] [[Arrows]] <br>• [[Very Heavy Pistol]] with 8 [[Armor-Piercing\|Armor Piercing]] Bullets <br>• [[Observation Camera]]<br><br><br><br><br>**DV 17 Electronics/Security Tech, 5 mins** *to [[Netrunning Regeln#Emplaced Defenses#Counter\|counter]]* | Target enters room without wearing proper pass or badge. | 6 MOVE<br><br>15HP<br><br>Perimeter of Defended Area<br><br><br> |
+> [!example] Description
+> 
+> **Type:** Mini Air Drone | [[Netrunning Regeln#Active Defenses|Active Defense]]
