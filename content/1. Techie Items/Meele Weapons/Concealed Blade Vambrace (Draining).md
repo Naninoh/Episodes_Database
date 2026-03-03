@@ -17,3 +17,4 @@
 > 
 > When being used as an active melee weapon, the Vambrace does not confer the stealth check as above and does not ignore armor.
 
+#TechieItem #Feed 

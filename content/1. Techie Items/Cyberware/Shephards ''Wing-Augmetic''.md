@@ -4,7 +4,7 @@
 > - **Install:** Hospital
 > - **Humanity Loss (HL):** 14 (4d6)
 > 
-> *Used by: - | Invented by: The Musketeer (Matt)*
+> *Used by: Archangel (Feed) | Invented by: Shephard (Matt)*
 >   
 > **Special Features:** The "Wing-Augmetic" is a set of actual wings that are made to be "Naturalism perfected". Replace feathers with Carbon-Fiber. Able to flex but remain rigid at times, the user can now use their movement in 3 dimensions instead of just tiles. 
 > 
@@ -12,4 +12,4 @@
 > 
 > Provided the wings are functional, the user is also able to mitigate fall damage, and their total carry weight of persons is equal to a combined [[Body (BODY)]] rating of 20.
 
-#TechieItem
+#TechieItem #Feed 
